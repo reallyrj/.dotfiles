@@ -1,0 +1,4 @@
+https://github.com/reallyrj/.dotfiles
+How i performed:This lab overall was pretty easy because all you had to do was follow the commands on the hw sheet 
+challenges : The hardest oart of this lab for me was getting the .vimrc file from the linux lab computer on to mine by remoting in i never figureed out how to solve this and ended up just recreating the .vimrc file on my own computer. the second challenge i faces was the set up of the repository through the terminal because the first couple of times i put the commands in the terminal my github page didnt change so i had to go back multiple times until the commands finnaly worked and my github changed
+mkdir .dotfiles/cd .dotfiles/touch README.md/vim README.md/cat README.md/cp .vimrc .dotfiles/git init/git add --all/got commit -m "INIT commit"/git branch  -M main/git remote add origin git@github.com:reallyrj/.dotfiles/git push-u origin main/
